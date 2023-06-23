@@ -9,7 +9,7 @@ It will include:
     - cheat sheets,
     - and my own notes and/or miscellaneous.
 
-For a start, its structure will be topic-wise. E.g., I have no summarized all contents of the first week in a folder called "Basics: Markdown, Shell, and GitHub". I find the topic-wise structure much more convenient for my own purposes than the chronological structure of the hh-wevb-23-3 repository.
+For a start, its structure will be topic-wise. E.g., I have now summarized all contents of the first week in a folder called "Basics: Markdown, Shell, and GitHub". I find the topic-wise structure much more convenient for my own purposes than the chronological structure of the hh-wevb-23-3 repository.
 
 Finally, because we all like some fun, here is my favorite, if not "signature", GIF:
 
